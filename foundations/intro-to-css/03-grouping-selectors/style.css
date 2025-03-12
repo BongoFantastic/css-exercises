@@ -1,0 +1,13 @@
+.buttons {
+    font-size: 30px;
+    font-family: 'helvetica', 'times new roman', 'sans-serif';
+}
+
+.buttons.light {
+    background-color: #ff0;
+}
+
+.buttons.dark {
+    background-color: #000;
+    color: #fff;
+}
