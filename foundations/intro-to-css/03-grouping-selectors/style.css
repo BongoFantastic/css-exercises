@@ -1,13 +1,14 @@
-.buttons {
-    font-size: 30px;
+.light,
+.dark {
+    font-size: 28px;
     font-family: 'helvetica', 'times new roman', 'sans-serif';
 }
 
-.buttons.light {
+.light {
     background-color: #ff0;
 }
 
-.buttons.dark {
+.dark {
     background-color: #000;
     color: #fff;
 }
